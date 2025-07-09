@@ -1,0 +1,20 @@
+// src/lib/breadcrumbs.ts
+export const SEGMENT_LABELS: Record<string, string> = {
+  dashboard:    'Dashboard',
+  cases:        'Expedientes',
+  customers:    'Directorio',
+  tasks:        'Tareas',
+  calendar:     'Calendario',
+  documents:    'Documentos',
+  reports:      'Informes',
+  treasury:     'Tesorería',
+  settings:     'Settings',
+  general:      'General',
+  seo:          'SEO',
+  tags:         'Tags',
+  email:        'Email',
+  leads:        'Leads',
+  support:      'Support',
+  finance:      'Finance',
+  gateways:     'Gateways',
+};
