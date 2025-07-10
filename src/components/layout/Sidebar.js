@@ -33,7 +33,7 @@ export default function Sidebar() {
     { href: '/dashboard/customers', icon: DirectoryIcon, text: 'Customers' },
     { href: '/dashboard/tasks', icon: PencilSquareIcon, text: 'Tasks' },
     { href: '/dashboard/calendar', icon: CalendarIcon, text: 'Calendar' },
-    { href: '/dashboard/chat', icon: ChatBubbleLeftRightIcon, text: 'Chat Facebook' },
+    { href: '/dashboard/chat', icon: ChatBubbleLeftRightIcon, text: 'Conversations' },
     { href: '/dashboard/documents', icon: PaperClipIcon, text: 'Documents' },
     { href: '/dashboard/reports', icon: ChartBarIcon, text: 'Reports', roles: ['Administrador'] },
     { href: '/dashboard/treasury', icon: CurrencyDollarIcon, text: 'Billing' },
